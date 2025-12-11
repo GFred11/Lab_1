@@ -1,4 +1,43 @@
 @import url('https://fonts.googleapis.com/css2?family=Geologica:wght,CRSV@100..900,0&family=Imprima&display=swap');
-*{
-    font-family: Geologica;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Geologica", sans-serif;
+}
+
+body {
+    background-color: #151E3F;
+    color: white;
+    
+}
+
+.nav {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding: 3em 0;
+    margin-top: 40px;
+}
+
+.Hmbrm{
+    position: absolute;
+    left: 4em;
+}
+
+.phoria_logo{
+    position: absolute;
+    margin-top: -15px
+}
+
+#h1hero {
+    margin-bottom: 2em;
+
+}
+
+.hero {
+    padding: 3.5em;
+    margin-top: 2;
+    margin-right: 6.3em;
 }
