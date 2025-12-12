@@ -19,6 +19,7 @@ body {
     justify-content: center;
     padding: 3em 0;
     margin-top: 40px;
+    margin-bottom: 2.5em;
 }
 
 .Hmbrm{
@@ -39,5 +40,27 @@ body {
 .hero {
     padding: 3.5em;
     margin-top: 2;
-    margin-right: 6.3em;
+    background-image: url(Images_map/regenfoto.svg);
+    background-size:cover ;
+
+}
+
+.regenvrouw {
+    margin-left: 5em;
+    margin-top: -10em;
+    width: 90%;
+    
+}
+ 
+.btn {
+ position: absolute;
+ background-color:  #FA9589;
+ text-decoration: none;
+ color: white;
+ margin-top: 200px;
+ padding: 10px ;
+ border-radius: 15px;
+ padding-left: 1.5em;
+ padding-right: 1.5em;
+
 }
