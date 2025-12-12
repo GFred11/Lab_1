@@ -10,7 +10,6 @@
 body {
     background-color: #151E3F;
     color: white;
-    
 }
 
 .nav {
@@ -34,15 +33,13 @@ body {
 
 #h1hero {
     margin-bottom: 2em;
-
 }
 
 .hero {
     padding: 3.5em;
     margin-top: 2;
     background-image: url(Images_map/regenfoto.svg);
-    background-size:cover ;
-
+    background-size: cover;
 }
 
 .regenvrouw {
@@ -63,7 +60,6 @@ body {
  border-radius: 15em;
  padding-left: 1.5em;
  padding-right: 1.5em;
-
 }
 
 .Over_ons {
@@ -76,16 +72,13 @@ body {
 .Regengroepimg {
     width: 40%;
     margin-top: 1.5em;
-    
-   
 }
 
 .Phoria_par1 {
     font-size: small;
     padding-top: 3em;
     padding-left: 3em;
-    padding-right: 3em;
-    
+    padding-right: 3em;   
 }
 
 .Phoria_p2 {
@@ -94,4 +87,44 @@ body {
     padding-left: 3em;
     padding-right: 3em;
     padding-bottom: 3em;
+}
+
+.H2text {
+    text-align: center;
+    margin-top: 2em;
+}
+
+.P_text {
+    text-align: center;
+    margin-top: 3em;
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-bottom: 1em;
+}
+
+.P_text2{
+    text-align: center;
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-bottom: 3em;
+}
+
+.tlfn_img {
+    align-content: center;
+    width: 50%;
+    margin-left: 8em;
+}
+
+.btn_Text {
+ background-color: #FA9589;
+ text-decoration: none;
+ color: white;
+ margin-top: 15em;
+ margin-bottom: 10em;
+ margin-left: 11em;
+ margin-top: 10em;
+ padding: 10px;
+ border-radius: 15em;
+ padding-left: 1.5em;
+ padding-right: 1.5em; 
 }
