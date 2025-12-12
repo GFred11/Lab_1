@@ -48,6 +48,7 @@ body {
 .regenvrouw {
     margin-left: 5em;
     margin-top: -10em;
+    margin-bottom: -3.8em;
     width: 90%;
     
 }
@@ -59,8 +60,38 @@ body {
  color: white;
  margin-top: 200px;
  padding: 10px ;
- border-radius: 15px;
+ border-radius: 15em;
  padding-left: 1.5em;
  padding-right: 1.5em;
 
+}
+
+.Over_ons {
+    text-align: center;
+    padding-top: 2em;
+    background-color: #FA9589;
+    font-size: 1.5em;
+}
+
+.Regengroepimg {
+    width: 40%;
+    margin-top: 1.5em;
+    
+   
+}
+
+.Phoria_par1 {
+    font-size: small;
+    padding-top: 3em;
+    padding-left: 3em;
+    padding-right: 3em;
+    
+}
+
+.Phoria_p2 {
+    font-size: small;
+    padding-top: 2em;
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-bottom: 3em;
 }
